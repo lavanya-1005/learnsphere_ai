@@ -9,6 +9,14 @@ The project is developed using React for the frontend, FastAPI for the backend, 
 
 ---
 
+## Project Documentation
+
+The complete project technical document is available below:
+
+[View LearnSphere AI Technical Document](docs/LearnSphere_AI_Technical_Document%201.pdf)
+
+---
+
 ## Project Overview
 
 LearnSphere AI provides a single platform where students can learn from online courses, instructors can create and manage learning content, and admins can control users, courses, and instructor verification.
@@ -497,8 +505,3 @@ uploads/content
 LearnSphere AI is a complete EdTech platform that combines online learning, course management, assessments, payments, AI Tutor support, certificates, and admin control. The project demonstrates full-stack development, REST API integration, role-based authentication, database management, and AWS cloud deployment.
 ```
 
-## Project Technical Documentation
-
-The complete project technical documentation is available here:
-
-[Download LearnSphere AI Project Technical Report](docs/LearnSphere_AI_Technical_Document 1)
