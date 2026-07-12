@@ -1,5 +1,3 @@
-Copy-paste this as your `README.md` in the main project folder.
-
 ```md
 # LearnSphere AI
 
